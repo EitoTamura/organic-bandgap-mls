@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 生成データ（再現用スクリプトで作り直せるため）
+train/
+test/
+
+# 生成データ（再現用スクリプトで作り直せるため）
+input_data/
