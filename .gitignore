@@ -15,5 +15,5 @@ test/
 
 # 生成データ（再現用スクリプトで作り直せるため）
 input_data/
-results/
-morgan_feature_enginnering/results/*.csv
+morgan_feature_enginnering/results/
+
