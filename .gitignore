@@ -15,3 +15,4 @@ test/
 
 # 生成データ（再現用スクリプトで作り直せるため）
 input_data/
+results/
